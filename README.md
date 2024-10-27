@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Eu sou **Clenilson**, um **Programador Fullstack** com 2 anos e 4 meses de experiência em desenvolvimento e aprendizado contínuo na área de tecnologia. Estou em busca da minha primeira oportunidade para contribuir em um time de TI! 
+Eu sou **Clenilson**, um **Programador Fullstack** com 3 anos de experiência em desenvolvimento e aprendizado contínuo na área de tecnologia. Estou em busca da minha primeira oportunidade para contribuir em um time de TI! 
 
 ### 🛠️ Tecnologias
 Tenho conhecimentos em:
